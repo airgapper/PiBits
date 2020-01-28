@@ -15,4 +15,5 @@ MouseScan:     Code to turn the sensor in an optical mouse in to a very crude
 MPU6050-Pi-Demo:  Code to drive an MPU6050 accelerometer/gyroscope via I2C
                from the RaspberryPi.
 
-This is a test
+This is a test also
+
